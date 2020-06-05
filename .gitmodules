@@ -1,0 +1,3 @@
+[submodule "ecoleta-web"]
+	path = ecoleta-web
+	url = https://github.com/Wolgrand/Ecoleta.git
